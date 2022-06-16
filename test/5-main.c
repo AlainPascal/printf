@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-    __printf("%S\n", "Best\nSchool");
-    
-    return (0);
+	__printf("%S\n", "Best\nSchool");
+
+	return (0);
 }
